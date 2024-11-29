@@ -1,0 +1,8 @@
+com\mycompany\tienda\resources\JakartaEE11Resource.class
+services\AdminProcess.class
+controller\GorraServlet.class
+model\GorraDAO.class
+com\mycompany\tienda\JakartaRestConfiguration.class
+db\DatabaseConnection.class
+controller\AdminPanel.class
+model\Gorra.class
